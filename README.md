@@ -82,3 +82,4 @@ Please follow these steps:
 * 下载`Artifacts`中的编译产物`aaps.zip`
 
 20240714-第一次编译
+20240714使用aapszjh.keystore
